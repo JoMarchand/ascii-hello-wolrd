@@ -1,5 +1,5 @@
 ## Simple launch 
-`npx votaitest.`
+After clonnig repo simply launch `node index.js`
 
 ## Used packages 
 - figlet (https://github.com/patorjk/figlet.js)
